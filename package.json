@@ -30,6 +30,6 @@
         "vue-template-compiler": "^2.6.3"
     },
     "dependencies": {
-        "trumbowyg": "^2.23.0"
+        "trumbowyg": "^2.24.0"
     }
 }
